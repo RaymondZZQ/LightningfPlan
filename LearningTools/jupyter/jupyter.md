@@ -123,7 +123,7 @@
 
 5. jupyter下的工具栏包含了很多功能，工具栏如下：
 
-   ![alt 工具栏](data\jupyter面板.png)
+   ![alt 工具栏](data/jupyter面板.png)
 
    在工具栏中可以实现很多功能，如下：
 
