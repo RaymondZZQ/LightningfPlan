@@ -1,0 +1,5 @@
+[24]http://openaccess.thecvf.com/content_ECCV_2018/html/Gaofeng_Meng_Exploiting_Vector_Fields_ECCV_2018_paper.html
+
+[9]  https://www3.cs.stonybrook.edu/~cvl/content/papers/2018/Ma_CVPR18.pdf
+
+[47]  https://ieeexplore.ieee.org/document/4407722
